@@ -39,20 +39,6 @@ payload:
   - DOMAIN-SUFFIX,periscope.tv
   - DOMAIN-SUFFIX,pscp.tv
 
-  # === 18+ (PORNHUB) ===
-  - DOMAIN-SUFFIX,pornhub.com
-  - DOMAIN-SUFFIX,phncdn.com
-  - DOMAIN-SUFFIX,pornhubpremium.com
-  - DOMAIN-SUFFIX,modelhub.com
-
-  # === МУЗЫКА И ИГРЫ (SPOTIFY, STEAM, SOUNDCLOUD) ===
-  - DOMAIN-SUFFIX,spotify.com
-  - DOMAIN-SUFFIX,scdn.co
-  - DOMAIN-SUFFIX,spoti.fi
-  - DOMAIN-SUFFIX,steamcommunity.com
-  - DOMAIN-SUFFIX,soundcloud.com
-  - DOMAIN-SUFFIX,sndcdn.com
-
   # === IT-СЕРВИСЫ И ДИЗАЙН (CANVA, LINKEDIN, DOCKER) ===
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,canva.dev
