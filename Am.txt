@@ -29,7 +29,6 @@ pscp.tv
 spotify.com
 scdn.co
 spoti.fi
-steamcommunity.com
 soundcloud.com
 sndcdn.com
 
