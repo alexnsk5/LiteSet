@@ -1,0 +1,10 @@
+payload:
+  # Домены и поддомены
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
+  - DOMAIN-SUFFIX,livejournal.org
+  - DOMAIN-SUFFIX,livejournal.ru
+  - DOMAIN-SUFFIX,lj.ru
+
+  # IP-подсеть
+  - IP-CIDR,81.19.74.0/24,no-resolve
