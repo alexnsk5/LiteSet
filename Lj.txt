@@ -1,0 +1,6 @@
+livejournal.com
+livejournal.net
+livejournal.org
+lj.ru
+livejournal.ru
+81.19.74.0/24
